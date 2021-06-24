@@ -1,16 +1,6 @@
 # findbedapp
 
-A new Flutter application.
+A healthcare app built in flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Purpose
+This is the front-end / UI of an app that is build to provide a platform for multiple healthcare services. Currently it serves the purpose for users to find available COVID Beds with requirements such as an ICU Bed, a normal bed with connected oxygen supply, etc. It also aims to provide resources to find vaccination centers, and other COVID related resources for users.
